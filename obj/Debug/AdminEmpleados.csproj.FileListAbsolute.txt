@@ -1,0 +1,13 @@
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Form1.resources
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.fmrDepartament.resources
+C:\Users\Ricardo\Desktop\proyectoDepartamentos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.fmrEmployees.resources
